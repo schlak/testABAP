@@ -1,0 +1,4 @@
+interface ZTEST
+  public .
+
+endinterface.
